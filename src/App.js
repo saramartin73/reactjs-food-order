@@ -11,8 +11,7 @@ function App() {
     setCartIsShown(true);
   }
   function hideCartHandler() {
-    setCartIsShown(false);
-    
+    setCartIsShown(false);    
   }
 
   return (
